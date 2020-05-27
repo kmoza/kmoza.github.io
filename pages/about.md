@@ -6,9 +6,16 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Archive]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+{:refdef: style="text-align: center;"}
+![Krishna Oza](/assets/img/profile_photos/about_krishna_oza.png)
+{: refdef}
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+{:refdef: style="text-align: center;"}
+I am Software Engineer with 8+ years of expereince currently working at @Nvidia. Over the course of my career I have had the pleasure of wokring with product as well as service based companies. My choice of programming languages for my day to day work and personal interest have changed from time to time, however I consider myself proficient with C++ (C++03) and Python.
+{: refdef}
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+Area of Interest
+
+* IP Routing
+* Optical WDM Networks
+* High Performance Computing
